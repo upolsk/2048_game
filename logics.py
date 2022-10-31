@@ -8,7 +8,7 @@ def insert_2_or_4(mas, x, y):
         mas[x][y] = 4
     return mas
 
-#Heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeey
+
 def get_number_from_index(i, j):
     return i * 4 + j + 1  # finds index of the element
 
